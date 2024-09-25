@@ -1,5 +1,5 @@
 {
-  "name": "react-chatbot",
+  "name": "react-chatbot-starter",
   "version": "1.0.0",
   "description": "a Chat bot package for devs",
   "main": "lib/index.js",
