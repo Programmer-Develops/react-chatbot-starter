@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/dt/react-chatbot-starter)
+
 # React Chatbot Starter
 
 A simple React component to quickly integrate a chatbot into your app. Customize the chatbot with your own API endpoint, bot key, and bot model.
