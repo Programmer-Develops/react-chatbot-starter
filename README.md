@@ -1,4 +1,6 @@
-![npm](https://img.shields.io/npm/dt/react-chatbot-starter)
+![npm version](https://img.shields.io/npm/v/package-name?label=version&color=black) ![npm downloads](https://img.shields.io/npm/dt/package-name?labelColor=grey&color=black)
+
+
 
 # React Chatbot Starter
 
